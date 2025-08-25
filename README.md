@@ -5,12 +5,13 @@ The dataset contains various laptop attributes such as RAM, Processor, GPU, Stor
 The end goal is to build a reliable regression model that can estimate the laptop price
 
 Key Features
+
 Data Cleaning & Preprocessing
  - Removed inconsistencies and renamed columns.
  - Handled missing values using statistical techniques.
 
 Feature engineering
-    Extracted Some useful features from features
+  - Extracted Some useful features from features
 
 Exploratory Data Analysis (EDA)
   - Distribution of prices and specifications.
@@ -26,7 +27,8 @@ Evaluation Metrics
    - R² Score
    - RMSE (Root Mean Squared Error
 
-Programming Language: Python 🐍
+Programming Language: Python 
+
 Libraries & Tools: pandas, numpy, matplotlib, seaborn,scikit-learn
 xgboost,Jupyter Notebook
 
