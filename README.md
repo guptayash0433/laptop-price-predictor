@@ -1,5 +1,6 @@
                                                           Laptop Price Prediction 💻
 Project Overview:
+    
     Aim :  This project aims to predict the price of laptops based on their specifications using Machine Learning model.
 The dataset contains various laptop attributes such as RAM, Processor, GPU, Storage, Display, Weight, Battery, Operating System, and more.
 The end goal is to build a reliable regression model that can estimate the laptop price
