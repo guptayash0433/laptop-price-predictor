@@ -36,9 +36,13 @@ xgboost,Jupyter Notebook
 Dataset
 
 Source: Kaggle
+
 original 
+
 shape: 8198 rows * 76 columns
+
 cleaned
+
 Shape: 8177 rows * 30 columns
 
 Target Variable: Price
